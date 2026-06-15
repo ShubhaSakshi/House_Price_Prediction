@@ -1,0 +1,27 @@
+# Python cache files
+
+**pycache**/
+*.pyc
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+env/
+.venv/
+
+# Operating System files
+
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets
+
+.streamlit/secrets.toml
+
+
+model.pkl
+scaler.pkl
