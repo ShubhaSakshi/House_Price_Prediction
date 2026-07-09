@@ -8,6 +8,11 @@ The objective of this project is to build an end-to-end Machine Learning pipelin
 
 ---
 
+## 🚀 Live Demo
+
+https://housepriceprediction-cydjqmxxd5xef3bz4xnp6e.streamlit.app/
+
+
 ## 🚀 Features
 
 * Data preprocessing and feature scaling
