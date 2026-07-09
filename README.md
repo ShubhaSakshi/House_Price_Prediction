@@ -54,7 +54,8 @@ The following models were trained and evaluated:
 
 ### Streamlit Application
 
-![Streamlit App](screenshorts/prediction_result_streamlit.png)
+![Streamlit App](screenshorts/prediction_result_streamlit1.png)
+
 
 ### Model Comparison
 
