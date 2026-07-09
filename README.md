@@ -54,15 +54,15 @@ The following models were trained and evaluated:
 
 ### Streamlit Application
 
-![Streamlit App](screenshots/streamlit_app_prediction.png)
+![Streamlit App](screenshorts/prediction_result_streamlit.png)
 
 ### Model Comparison
 
-![Model Comparison](screenshots/model_comparison_table.png)
+![Model Comparison](screenshorts/Model Comparison Table.png)
 
 ### Feature Importance
 
-![Feature Importance](screenshots/feature_importance.png)
+![Feature Importance](screenshorts/Feature Importance Graph.png)
 
 ---
 

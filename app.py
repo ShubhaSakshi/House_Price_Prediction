@@ -1,10 +1,11 @@
 # Import libraries# Import libraries
 import streamlit as st
-import pickle
+import joblib
 
 # Load model and scaler
-model = pickle.load(open("model.pkl", "rb"))
-scaler = pickle.load(open("scaler.pkl", "rb"))
+
+model = joblib.load("model.pkl")
+scaler = joblib.load("scaler.pkl")
 
 # Title
 st.title("🏠 House Price Prediction App")
